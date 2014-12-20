@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 08:44:54.718000,pa-2005-02-08-special-general,2005-02-08 00:00:00,2005-02-08 00:00:00,general,certified,True,State Representative,189,"SIPTROTH, JOHN J.",,,,,DEM,Monroe,ocd-division/country:us/state:pa/county:monroe,2932,,,,,2005
+2014-11-30 08:44:54.718000,pa-2005-02-08-special-general,2005-02-08 00:00:00,2005-02-08 00:00:00,general,certified,True,State Representative,189,"HANNAN, DIANE l.",,,,,REP,Monroe,ocd-division/country:us/state:pa/county:monroe,2255,,,,,2005
+2014-11-30 08:44:54.718000,pa-2005-02-08-special-general,2005-02-08 00:00:00,2005-02-08 00:00:00,general,certified,True,State Representative,189,"SIPTROTH, JOHN J.",,,,,DEM,Pike,ocd-division/country:us/state:pa/county:pike,989,,,,,2005
+2014-11-30 08:44:54.718000,pa-2005-02-08-special-general,2005-02-08 00:00:00,2005-02-08 00:00:00,general,certified,True,State Representative,189,"HANNAN, DIANE l.",,,,,REP,Pike,ocd-division/country:us/state:pa/county:pike,523,,,,,2005
