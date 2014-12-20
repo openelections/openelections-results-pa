@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 08:38:01.764000,pa-2006-05-16-special-general,2006-05-16 00:00:00,2006-05-16 00:00:00,general,certified,True,State Senate,19,"DINNIMAN, ANDREW E.",,,,,DEM,Chester,ocd-division/country:us/state:pa/county:chester,20937,,,,,2006
+2014-11-30 08:38:01.764000,pa-2006-05-16-special-general,2006-05-16 00:00:00,2006-05-16 00:00:00,general,certified,True,State Senate,19,"AICHELE, CAROL",,,,,REP,Chester,ocd-division/country:us/state:pa/county:chester,16181,,,,,2006
+2014-11-30 08:38:01.764000,pa-2006-05-16-special-general,2006-05-16 00:00:00,2006-05-16 00:00:00,general,certified,True,State Senate,19,"DINNIMAN, ANDREW E.",,,,,DEM,Montgomery,ocd-division/country:us/state:pa/county:montgomery,677,,,,,2006
+2014-11-30 08:38:01.764000,pa-2006-05-16-special-general,2006-05-16 00:00:00,2006-05-16 00:00:00,general,certified,True,State Senate,19,"AICHELE, CAROL",,,,,REP,Montgomery,ocd-division/country:us/state:pa/county:montgomery,641,,,,,2006
