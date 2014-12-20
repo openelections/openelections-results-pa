@@ -1,0 +1,4 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 08:44:47.116000,pa-2005-05-20-special-general,2005-05-20 00:00:00,2005-05-20 00:00:00,general,certified,True,State Representative,200,"PARKER, CHERELLE L.",,,,,DEM,Philadelphia,ocd-division/country:us/state:pa/county:philadelphia,3015,,,,,2005
+2014-11-30 08:44:47.116000,pa-2005-05-20-special-general,2005-05-20 00:00:00,2005-05-20 00:00:00,general,certified,True,State Representative,200,"ROSSMAN, ROBERT",,,,,REP,Philadelphia,ocd-division/country:us/state:pa/county:philadelphia,303,,,,,2005
+2014-11-30 08:44:47.116000,pa-2005-05-20-special-general,2005-05-20 00:00:00,2005-05-20 00:00:00,general,certified,True,State Representative,200,"SANTOYO, MARLENE",,,,,GRN,Philadelphia,ocd-division/country:us/state:pa/county:philadelphia,627,,,,,2005
