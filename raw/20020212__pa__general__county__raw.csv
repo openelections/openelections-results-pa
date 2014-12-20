@@ -1,0 +1,4 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 09:10:31.368000,pa-2002-02-12-special-general,2002-02-12 00:00:00,2002-02-12 00:00:00,general,certified,True,State Representative,149,"BROOKS, WALLACE W.",,,,,REP,Montgomery,ocd-division/country:us/state:pa/county:montgomery,3922,,,,,2002
+2014-11-30 09:10:31.368000,pa-2002-02-12-special-general,2002-02-12 00:00:00,2002-02-12 00:00:00,general,certified,True,State Representative,149,"LEACH, DAYLIN",,,,,DEM,Montgomery,ocd-division/country:us/state:pa/county:montgomery,3616,,,,,2002
+2014-11-30 09:10:31.368000,pa-2002-02-12-special-general,2002-02-12 00:00:00,2002-02-12 00:00:00,general,certified,True,State Representative,149,"FARAGALLI, ANGELO C.",,,,,IND,Montgomery,ocd-division/country:us/state:pa/county:montgomery,637,,,,,2002
