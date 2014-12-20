@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 09:11:30.053000,pa-2001-11-06-special-general,2001-11-06 00:00:00,2001-11-06 00:00:00,general,certified,True,State Senate,17,"WILLIAMS, CONNIE",,,,,DEM,Delaware,ocd-division/country:us/state:pa/county:delaware,9483,,,,,2001
+2014-11-30 09:11:30.053000,pa-2001-11-06-special-general,2001-11-06 00:00:00,2001-11-06 00:00:00,general,certified,True,State Senate,17,"COHEN, LITA INDZEL",,,,,REP,Delaware,ocd-division/country:us/state:pa/county:delaware,9065,,,,,2001
+2014-11-30 09:11:30.053000,pa-2001-11-06-special-general,2001-11-06 00:00:00,2001-11-06 00:00:00,general,certified,True,State Senate,17,"WILLIAMS, CONNIE",,,,,DEM,Montgomery,ocd-division/country:us/state:pa/county:montgomery,20073,,,,,2001
+2014-11-30 09:11:30.053000,pa-2001-11-06-special-general,2001-11-06 00:00:00,2001-11-06 00:00:00,general,certified,True,State Senate,17,"COHEN, LITA INDZEL",,,,,REP,Montgomery,ocd-division/country:us/state:pa/county:montgomery,18224,,,,,2001
