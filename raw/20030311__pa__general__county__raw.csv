@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 09:06:47.779000,pa-2003-03-11-special-general,2003-03-11 00:00:00,2003-03-11 00:00:00,general,certified,True,State Senate,37,"PIPPY, JOHN R.",,,,,REP,Allegheny,ocd-division/country:us/state:pa/county:allegheny,23074,,,,,2003
+2014-11-30 09:06:47.779000,pa-2003-03-11-special-general,2003-03-11 00:00:00,2003-03-11 00:00:00,general,certified,True,State Senate,37,"GITNIK, PAUL J.",,,,,DEM,Allegheny,ocd-division/country:us/state:pa/county:allegheny,11133,,,,,2003
+2014-11-30 09:06:47.779000,pa-2003-03-11-special-general,2003-03-11 00:00:00,2003-03-11 00:00:00,general,certified,True,State Senate,37,"PIPPY, JOHN R.",,,,,REP,Washington,ocd-division/country:us/state:pa/county:washington,1724,,,,,2003
+2014-11-30 09:06:47.779000,pa-2003-03-11-special-general,2003-03-11 00:00:00,2003-03-11 00:00:00,general,certified,True,State Senate,37,"GITNIK, PAUL J.",,,,,DEM,Washington,ocd-division/country:us/state:pa/county:washington,559,,,,,2003
