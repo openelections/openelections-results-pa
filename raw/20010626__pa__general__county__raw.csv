@@ -1,0 +1,3 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 09:11:36.888000,pa-2001-06-26-special-general,2001-06-26 00:00:00,2001-06-26 00:00:00,general,certified,True,State Representative,28,"TURZAI, MIKE",,,,,REP,Allegheny,ocd-division/country:us/state:pa/county:allegheny,4533,,,,,2001
+2014-11-30 09:11:36.888000,pa-2001-06-26-special-general,2001-06-26 00:00:00,2001-06-26 00:00:00,general,certified,True,State Representative,28,"DANCISON, THOMAS J.",,,,,DEM,Allegheny,ocd-division/country:us/state:pa/county:allegheny,1430,,,,,2001
