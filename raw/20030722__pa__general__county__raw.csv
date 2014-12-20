@@ -1,0 +1,4 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 09:06:37.925000,pa-2003-07-22-special-general,2003-07-22 00:00:00,2003-07-22 00:00:00,general,certified,True,State Representative,3,"GOOD, MATTHEW W.",,,,,REP,Erie,ocd-division/country:us/state:pa/county:erie,11592,,,,,2003
+2014-11-30 09:06:37.925000,pa-2003-07-22-special-general,2003-07-22 00:00:00,2003-07-22 00:00:00,general,certified,True,State Representative,3,"MCGRATH, BRIAN P.",,,,,DEM,Erie,ocd-division/country:us/state:pa/county:erie,4331,,,,,2003
+2014-11-30 09:06:37.925000,pa-2003-07-22-special-general,2003-07-22 00:00:00,2003-07-22 00:00:00,general,certified,True,State Representative,3,"SAWDY, LARRY",,,,,GRN,Erie,ocd-division/country:us/state:pa/county:erie,353,,,,,2003
