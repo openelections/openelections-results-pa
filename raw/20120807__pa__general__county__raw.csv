@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-29 23:40:17.110000,pa-2012-08-07-special-general,2012-08-07 00:00:00,2012-08-07 00:00:00,general,certified,True,State Senate,40,"BROWN, SHARON",,,,,DEM,Butler,ocd-division/country:us/state:pa/county:butler,1322,,,,,2012
+2014-11-29 23:40:17.110000,pa-2012-08-07-special-general,2012-08-07 00:00:00,2012-08-07 00:00:00,general,certified,True,State Senate,40,"VULAKOVICH, RANDY",,,,,REP,Butler,ocd-division/country:us/state:pa/county:butler,4235,,,,,2012
+2014-11-29 23:40:17.110000,pa-2012-08-07-special-general,2012-08-07 00:00:00,2012-08-07 00:00:00,general,certified,True,State Senate,40,"BROWN, SHARON",,,,,DEM,Allegheny,ocd-division/country:us/state:pa/county:allegheny,4704,,,,,2012
+2014-11-29 23:40:17.110000,pa-2012-08-07-special-general,2012-08-07 00:00:00,2012-08-07 00:00:00,general,certified,True,State Senate,40,"VULAKOVICH, RANDY",,,,,REP,Allegheny,ocd-division/country:us/state:pa/county:allegheny,12065,,,,,2012
