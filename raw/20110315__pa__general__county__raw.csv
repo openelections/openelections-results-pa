@@ -1,0 +1,3 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-10-08 12:48:38.171000,pa-2011-03-15-special-general,2011-03-15 00:00:00,2011-03-15 00:00:00,general,certified,True,State Senate,11,"SCHWANK, JUDY",,,,,DEM,,Berks,ocd-division/country:us/state:pa/county:berks,20220,,,,,2011
+2015-10-08 12:48:38.171000,pa-2011-03-15-special-general,2011-03-15 00:00:00,2011-03-15 00:00:00,general,certified,True,State Senate,11,"MEDAGLIA, LARRY",,,,,REP,,Berks,ocd-division/country:us/state:pa/county:berks,14832,,,,,2011
